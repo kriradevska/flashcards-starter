@@ -1,26 +1,24 @@
-# To Run
+# Challenge Project: Jamming
 
-Run `npm start` in the project root and the app will be available on port 3000.
+## General Info
 
-# State
+>*In this project, you will practice using Redux and Redux Toolkit to manage the complex state of a flashcard-style quiz app. Users will be able to create their own topics, quizzes for those topics, and flashcards for those quizzes. Users will also be able to interact with their quizzes by flipping flashcards over.*
 
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
+----
 
-# Routes
+A project for making a React, Redux and Redux Toolkit web application that is used for making flashcard quizzes. 
 
-- `/new-topic` – form to create a new topic
-- `/topics` – index of all topics
-- `/topics/:topicId` – page for an individual topic
-- `/new-quiz` – form to create a new quiz
-- `/quizzes` – index of all quizzes
-- `/quizzes/:quizId` – page for an individual quiz
+This project is part of Codecademy front-end course.
 
-# To Test
+## Technologies
+- React
+- React Components
+- Redux
+- React-Redux
+- Redux Toolkit
 
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
+## Launch
 
-# Questions
+- Deploy the app with Surge
 
-Is this appropriately scoped? Does it have too many features? Too few?
+Note: The application is not back-end supported
