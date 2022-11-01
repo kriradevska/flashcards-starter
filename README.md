@@ -1,4 +1,4 @@
-# Challenge Project: Jamming
+# Challenge Project: Flashcards
 
 ## General Info
 
