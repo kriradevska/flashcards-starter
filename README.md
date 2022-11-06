@@ -21,4 +21,3 @@ This project is part of Codecademy front-end course.
 
 - Deploy the app with Surge
 
-Note: The application is not back-end supported
